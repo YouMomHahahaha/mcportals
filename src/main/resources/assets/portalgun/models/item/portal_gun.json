@@ -1,0 +1,11 @@
+{
+	"parent": "builtin/entity",
+	"gui_light": "front",
+	"display": {
+		"firstperson_righthand": {
+			"rotation": [0, 0, 0],
+			"translation": [0, 0, 0],
+			"scale": [1, 1, 1]
+		}
+	}
+}
